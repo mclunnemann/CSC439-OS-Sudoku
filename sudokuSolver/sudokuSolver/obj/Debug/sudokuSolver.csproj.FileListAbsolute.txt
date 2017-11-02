@@ -39,3 +39,14 @@ C:\Users\michael\Documents\GitHub\sudokuSolver\sudokuSolver\sudokuSolver\obj\Deb
 C:\Users\michael\Documents\GitHub\sudokuSolver\sudokuSolver\sudokuSolver\obj\Debug\sudokuSolver.Form1.resources
 C:\Users\michael\Documents\GitHub\sudokuSolver\sudokuSolver\sudokuSolver\obj\Debug\sudokuSolver.Properties.Resources.resources
 C:\Users\michael\Documents\GitHub\sudokuSolver\sudokuSolver\sudokuSolver\obj\Debug\sudokuSolver.csproj.GenerateResource.Cache
+C:\Users\michael\Documents\Visual Studio 2015\Projects\School\CSC 439\sudokuSolver\sudokuSolver\bin\Debug\sudokuSolver.exe.config
+C:\Users\michael\Documents\Visual Studio 2015\Projects\School\CSC 439\sudokuSolver\sudokuSolver\obj\Debug\sudokuSolver.exe
+C:\Users\michael\Documents\Visual Studio 2015\Projects\School\CSC 439\sudokuSolver\sudokuSolver\obj\Debug\sudokuSolver.pdb
+C:\Users\michael\Documents\Visual Studio 2015\Projects\School\CSC 439\sudokuSolver\sudokuSolver\bin\Debug\sudokuSolver.exe
+C:\Users\michael\Documents\Visual Studio 2015\Projects\School\CSC 439\sudokuSolver\sudokuSolver\bin\Debug\sudokuSolver.pdb
+C:\Users\michael\Documents\Visual Studio 2015\Projects\School\CSC 439\sudokuSolver\sudokuSolver\bin\Debug\nunit.framework.dll
+C:\Users\michael\Documents\Visual Studio 2015\Projects\School\CSC 439\sudokuSolver\sudokuSolver\bin\Debug\nunit.framework.xml
+C:\Users\michael\Documents\Visual Studio 2015\Projects\School\CSC 439\sudokuSolver\sudokuSolver\obj\Debug\sudokuSolver.csprojResolveAssemblyReference.cache
+C:\Users\michael\Documents\Visual Studio 2015\Projects\School\CSC 439\sudokuSolver\sudokuSolver\obj\Debug\sudokuSolver.Form1.resources
+C:\Users\michael\Documents\Visual Studio 2015\Projects\School\CSC 439\sudokuSolver\sudokuSolver\obj\Debug\sudokuSolver.Properties.Resources.resources
+C:\Users\michael\Documents\Visual Studio 2015\Projects\School\CSC 439\sudokuSolver\sudokuSolver\obj\Debug\sudokuSolver.csproj.GenerateResource.Cache
